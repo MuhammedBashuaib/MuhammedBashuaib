@@ -1,4 +1,4 @@
-<!--## Hi there 👋-->
+## Hi there 👋
 
 <!--
 **MuhammedBashuaib/MuhammedBashuaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <h1 align="center">Hi 👋, I'm Muhammed Omer Bashuaib</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -34,3 +35,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedbashuaib&show_icons=true&locale=en" alt="muhammedbashuaib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedbashuaib&" alt="muhammedbashuaib" /></p>
+-->
