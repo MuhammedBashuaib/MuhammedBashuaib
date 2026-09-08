@@ -121,14 +121,14 @@ I believe great engineering turns complex business requirements into software th
 <br/><br/>
 
 ### 🧰 Tools, DevOps & Platforms
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,androidstudio,vscode,xcode,figma" height="52" alt="Tools & Platforms" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,androidstudio,vscode,apple,figma" height="52" alt="Tools & Platforms" />
 <br/>
-`Docker` · `Git` · `GitHub` · `Postman` · `Android Studio` · `VS Code` · `Xcode` · `Figma`
+`Docker` · `Git` · `GitHub` · `Postman` · `Android Studio` · `VS Code` · `Xcode / iOS` · `Figma`
 
 <br/><br/>
 
 ### 🤖 AI-Assisted Engineering & Workflows
-<img src="https://img.shields.io/badge/AI%20Tooling-Gemini%20%7C%20Claude%20%7C%20GitHub%20Copilot-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tooling" />
+<img src="https://img.shields.io/badge/AI%20Tooling-ChatGPT%20%7C%20Gemini%20%7C%20Claude-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tooling" />
 <br/>
 `AI-Assisted Development` · `LLM Integration` · `Workflow Automation` · `Prompt Engineering`
 
