@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Mohammed Bashuaib
-### Software Engineer · Flutter Developer · Backend & Cloud Enthusiast
+### Software Engineer | Flutter Developer | Building scalable mobile applications
 **Building scalable mobile applications, robust backend architectures, and real-world digital products.**
 
 <br/>
@@ -216,7 +216,7 @@ Release & Deployment (CI/CD)
 Monitoring, Profiling & Iteration
 ```
 
-> *This approach guarantees software built around actual business value, rather than hype.*
+> *This approach helps build software around actual business value rather than technology hype.*
 
 ---
 
