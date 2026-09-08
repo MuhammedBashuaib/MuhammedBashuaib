@@ -1,8 +1,8 @@
 <div align="center">
 
 # 👋 Mohammed Bashuaib
-### Software Engineer · Flutter Developer
-**Building scalable mobile applications and real-world digital products.**
+### Software Engineer · Flutter Developer · Backend & Cloud Enthusiast
+**Building scalable mobile applications, robust backend architectures, and real-world digital products.**
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=334155&center=true&vCenter=true&width=720&lines=Software+Engineer;Flutter+%7C+Dart+Developer;Building+Scalable+Mobile+Applications;Designing+Real-World+Digital+Products;Architecture+%7C+Backend+%7C+Quality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Software+Engineer;Flutter+%7C+Dart+Mobile+Specialist;Backend+%7C+ASP.NET+Core+%7C+C%23+%7C+Node.js;Databases+%7C+SQL+Server+%7C+MongoDB+%7C+Firestore;Cloud+%7C+Firebase+%7C+Docker+%7C+DevOps;Building+Scalable+%26+Reliable+Digital+Products;Always+Learning%2C+Always+Engineering" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -32,11 +32,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** focused on building scalable mobile applications and real-world digital products.
+I'm a passionate **Software Engineer** dedicated to engineering high-performance mobile applications and resilient backend systems.
 
-My primary focus is **Flutter & Dart**, while continuously expanding my expertise across **software architecture, backend engineering, cloud systems, testing, security, and modern development practices**.
+My primary focus spans **Flutter & Dart** for cross-platform client development, paired with solid **Backend Engineering using ASP.NET Core (C#), Node.js, and Cloud services (Firebase, Docker)**. I specialize in designing scalable database architectures using both **Relational (SQL Server, PostgreSQL)** and **NoSQL (MongoDB, Firestore)** solutions.
 
-I enjoy taking real-world problems, understanding the business requirements behind them, and turning them into software that is **reliable, maintainable, scalable, and easy to use**.
+I believe great engineering turns complex business requirements into software that is **reliable, maintainable, secure, and intuitive**.
 
 ---
 
@@ -47,47 +47,47 @@ I enjoy taking real-world problems, understanding the business requirements behi
 <td width="50%" valign="top">
 
 ### 📱 Mobile Engineering
-- Flutter application development
-- Dart
-- BLoC / Cubit
-- Local data & offline strategies
-- Responsive UI
-- Production-ready applications
+- **Flutter** & **Dart** ecosystem
+- **BLoC** / **Cubit** state management
+- Offline-first architecture & caching (**Hive**, SQLite)
+- Responsive, fluid UI & Custom animations
+- Native platform channels & integrations
+- Production app deployment & store management
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ Software Engineering
-- Application architecture
-- Modular & maintainable code
-- REST APIs
-- Authentication
-- Authorization & RBAC
-- Testing & quality
+### 🏗️ Software Architecture
+- Clean Architecture & Domain-Driven Design (DDD)
+- Modular & testable codebases
+- Object-Oriented Design & SOLID principles
+- Enterprise Design Patterns
+- Role-Based Access Control (RBAC) & Security
+- High-standard code reviews & QA practices
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Backend & Cloud
-- Firebase
-- Firestore
-- Cloud Functions
-- Node.js
-- Express
-- TypeScript
+### ⚙️ Backend & Cloud Engineering
+- **ASP.NET Core** & **C#** Web APIs
+- **Node.js**, **Express** & **TypeScript**
+- **Firebase** ecosystem & Serverless Cloud Functions
+- RESTful APIs & WebSocket real-time communication
+- Containerization with **Docker**
+- Microservices & Modular Monolith concepts
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Product Engineering
-- Business-driven development
-- Real-world digital products
-- System design
-- Data modeling
-- Performance & optimization
-- Continuous improvement
+### 🗄️ Database & Data Systems
+- **SQL Server** (T-SQL, Stored Procedures, Views)
+- **PostgreSQL** & **MySQL**
+- **MongoDB** (Aggregations, Schema validation)
+- **Cloud Firestore** & NoSQL data modeling
+- Indexing strategies & query optimization
+- Transactions, ACID compliance & data integrity
 
 </td>
 </tr>
@@ -99,24 +99,38 @@ I enjoy taking real-world problems, understanding the business requirements behi
 
 <div align="center">
 
-### 📱 Mobile
-<img src="https://skillicons.dev/icons?i=flutter,dart" height="50" alt="Mobile Stack" />
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart" height="52" alt="Mobile Stack" />
 <br/>
-`Flutter` · `Dart` · `BLoC` · `Cubit` · `Hive`
+`Flutter` · `Dart` · `BLoC` · `Cubit` · `Hive` · `Provider`
 
 <br/><br/>
 
-### ☁️ Backend & Cloud
-<img src="https://skillicons.dev/icons?i=firebase,nodejs,express,ts" height="50" alt="Backend Stack" />
+### ⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,ts,firebase" height="52" alt="Backend Stack" />
 <br/>
-`Firebase` · `Firestore` · `Cloud Functions` · `Node.js` · `Express` · `TypeScript`
+`C#` · `ASP.NET Core` · `Node.js` · `Express.js` · `TypeScript` · `Firebase Cloud Functions`
 
 <br/><br/>
 
-### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,vscode,figma" height="50" alt="Tools" />
+### 🗄️ Databases & Storage
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" height="52" alt="Database Stack" />
 <br/>
-`Git` · `GitHub` · `Postman` · `Android Studio` · `VS Code` · `Figma`
+`SQL Server` · `PostgreSQL` · `MySQL` · `MongoDB` · `Cloud Firestore` · `Hive`
+
+<br/><br/>
+
+### 🧰 Tools, DevOps & Platforms
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,androidstudio,vscode,xcode,figma" height="52" alt="Tools & Platforms" />
+<br/>
+`Docker` · `Git` · `GitHub` · `Postman` · `Android Studio` · `VS Code` · `Xcode` · `Figma`
+
+<br/><br/>
+
+### 🤖 AI-Assisted Engineering & Workflows
+<img src="https://img.shields.io/badge/AI%20Tooling-Gemini%20%7C%20Claude%20%7C%20GitHub%20Copilot-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tooling" />
+<br/>
+`AI-Assisted Development` · `LLM Integration` · `Workflow Automation` · `Prompt Engineering`
 
 </div>
 
@@ -128,49 +142,47 @@ I believe software engineering is not only about writing code. It's about making
 
 | Priority | What it means |
 | :---: | :--- |
-| 🧩 **Simplicity** | Keep complexity understandable and manageable |
-| 🏗️ **Architecture** | Design systems that can adapt and evolve cleanly |
-| 🧪 **Quality** | Reliability and testing are integral parts of the product |
-| 🔐 **Security** | Consider security and data safety from the foundation |
-| 📈 **Scalability** | Build with future growth and performance in mind |
-| 👤 **UX** | Technology should solve real human problems seamlessly |
-| 📚 **Learning** | Continuously improve through real-world projects |
+| 🧩 **Simplicity** | Keep complexity understandable, avoiding premature over-engineering |
+| 🏗️ **Architecture** | Design layered systems that separate business logic from UI/DB |
+| 🧪 **Quality** | Unit, widget, and integration testing are essential parts of shipping |
+| 🔐 **Security** | Implement defense-in-depth, robust auth, and data validation from day one |
+| 📈 **Scalability** | Optimize database queries, caching, and state management for growth |
+| 👤 **UX & DX** | Technology must solve real user needs while keeping developer experience joyful |
+| 📚 **Continuous Growth** | Deepen knowledge through real-world production challenges |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📦 Mahfooz Delivery
-**Mahfooz Delivery** is a delivery platform designed around real-world commerce and logistics workflows. The platform brings together **customers, stores, products, orders, drivers, payments, and delivery operations** into a unified ecosystem.
+**Mahfooz Delivery** is a comprehensive multi-tier delivery platform engineered around real-world commerce and logistics workflows. The platform seamlessly unifies **customers, stores, inventory, orders, drivers, payments, and delivery operations**.
 
 #### Core Engineering Areas
-- 🛒 Store & product management
-- 📦 Complete order lifecycle & state tracking
-- 🚗 Driver workflows & location handling
-- 💰 Wallet & payment architecture
-- 🔥 Firebase & Firestore integration
-- 🔐 Authentication & role-based authorization
-- 🏗️ Scalable application architecture
-- 🔄 Local data caching & offline handling with Hive
-- 🧪 Testing and reliability
+- 🛒 Store & product catalog management
+- 📦 Real-time order lifecycle & state tracking
+- 🚗 Driver dispatch, geolocation & routing workflows
+- 💰 Digital wallet & payment architecture
+- 🔥 Firebase & Firestore real-time synchronization
+- 🔐 Authentication & granular Role-Based Access Control (RBAC)
+- 🏗️ Clean Architecture with Cubit/BLoC state management
+- 🔄 Offline resilience & local caching with Hive
 
 **Technology:** `Flutter` · `Dart` · `Firebase` · `Firestore` · `Cubit/BLoC` · `Hive`
 
 ---
 
 ### 🎫 Hader
-**Hader** is a smart event management platform built to simplify the creation, management, and monitoring of modern events.
+**Hader** is a modern, smart event management platform designed to streamline event registration, attendance tracking, and live management.
 
 #### Core Engineering Areas
-- 🎟️ Event management & lifecycle
-- 💌 Digital dynamic invitations
-- 📱 QR-based attendance & verification
-- 📅 Multi-day events & track management
-- 🎯 Activities & agenda coordination
-- 🍽️ Meal distribution & voucher workflows
-- 📊 Real-time analytics, reports & data export
-- 👥 Account management & permissions
-- 🔐 Role-based access control (RBAC)
+- 🎟️ End-to-end event planning & lifecycle management
+- 💌 Personalized dynamic digital invitation generation
+- 📱 High-speed QR-based attendance verification
+- 📅 Multi-track and multi-day scheduling
+- 🎯 Dynamic activities & session coordination
+- 🍽️ Meal distribution & token/voucher systems
+- 📊 Real-time analytics, dashboards & CSV/PDF exports
+- 👥 Multi-user management with strict permission tiers
 
 **Technology:** `Flutter` · `Dart` · `Firebase` · `Firestore` · `BLoC/Cubit`
 
@@ -187,22 +199,22 @@ I start with:
 ```text
 Business Problem
        ↓
-Requirements
+Requirements & User Stories
        ↓
-Domain & Data Model
+Domain Modeling & Database Design
        ↓
-Architecture
+Architecture & Layer Separation
        ↓
-Implementation
+Implementation & State Management
        ↓
-Testing
+Automated & Manual Testing
        ↓
-Release
+Release & Deployment (CI/CD)
        ↓
-Monitoring & Improvement
+Monitoring, Profiling & Iteration
 ```
 
-> *This approach helps me build software around real requirements, rather than simply building around technology.*
+> *This approach guarantees software built around actual business value, rather than hype.*
 
 ---
 
@@ -211,161 +223,188 @@ Monitoring & Improvement
 > **Good software is not just software that works. Good software is software that can evolve.**
 
 I aim to build systems that are:
-- **Reliable** → Designed to behave predictably under edge cases
-- **Maintainable** → Easy to understand, refactor, and evolve
-- **Scalable** → Ready for future growth and higher loads
-- **Testable** → Built with quality, modularity, and testability in mind
-- **Secure** → Designed with authorization and security as a foundation
-- **User-focused** → Solving real problems with simple and intuitive experiences
+- **Reliable** → Designed to behave predictably under edge cases and offline states
+- **Maintainable** → Clear separation of concerns, self-documenting and easy to refactor
+- **Scalable** → Capable of handling growing traffic, data volumes, and feature sets
+- **Testable** → Decoupled modules built with unit, integration, and UI testing in mind
+- **Secure** → Hardened against unauthorized access, SQL injections, and data leaks
+- **User-focused** → Delivering fast, delightful, and accessible user experiences
 
 ---
 
-## 📚 Currently Learning & Exploring
+## 📚 Currently Deepening & Exploring
 
-My goal is to continuously grow from a strong mobile developer into a more complete **Software Engineer**.
+My continuous journey toward becoming a complete **Software & Systems Engineer**:
 
 <details>
-<summary><strong>🏗️ Advanced Software Architecture</strong></summary>
+<summary><strong>🏗️ Advanced Software Architecture & Design</strong></summary>
 <br/>
 
-- Clean Architecture & Domain-Driven Design (DDD)
-- Modular application design & Separation of Concerns
-- Scalable codebases & Design Patterns
-- Maintainable system boundaries
-- Architectural decision making (ADRs)
+- Domain-Driven Design (DDD) & Strategic Modeling
+- Clean Architecture, Hexagonal & Onion patterns
+- Microservices vs. Modular Monolith architectures
+- Scalable design patterns (Factory, Strategy, Observer, Repository, Unit of Work)
+- Architectural Decision Records (ADRs)
 
 </details>
 
 <details>
-<summary><strong>⚙️ Backend Engineering</strong></summary>
+<summary><strong>⚙️ Backend & Distributed Systems (.NET & Node.js)</strong></summary>
 <br/>
 
-- Node.js & TypeScript
-- Express & RESTful APIs
-- Firebase Cloud Functions
-- Backend architecture & database modeling
-- Distributed application concepts
+- **ASP.NET Core** Web APIs, Entity Framework Core & MediatR (CQRS)
+- **Node.js** / **TypeScript** microservices & Express backends
+- Message brokers & Event-driven architecture (RabbitMQ, Kafka)
+- RESTful APIs, gRPC & GraphQL architectures
+- Caching strategies (Redis) & Rate Limiting
 
 </details>
 
 <details>
-<summary><strong>🧪 Testing & Quality Engineering</strong></summary>
+<summary><strong>🗄️ Advanced Database Management & Optimization</strong></summary>
 <br/>
 
-- Unit, Widget & Integration testing
+- **SQL Server & PostgreSQL:** Query profiling, indexing strategies, execution plan analysis
+- **MongoDB:** Aggregation pipelines, sharding, replica sets & indexing
+- ACID transactions, database normalization & denormalization trade-offs
+- Data migration pipelines & zero-downtime schema updates
+
+</details>
+
+<details>
+<summary><strong>🐳 DevOps, Containers & CI/CD</strong></summary>
+<br/>
+
+- Multi-stage **Docker** builds & Docker Compose environments
+- CI/CD pipelines with GitHub Actions (Automated Flutter & Backend builds)
+- Server management, reverse proxies (Nginx) & Cloud hosting
+
+</details>
+
+<details>
+<summary><strong>🧪 Testing, Quality & Security Engineering</strong></summary>
+<br/>
+
 - Test-Driven Development (TDD) principles
-- QA best practices & regression testing
-- Reliable release processes & CI/CD automation
+- Flutter Unit, Widget, and Golden/Integration tests
+- Backend API integration testing (Postman collections, xUnit, Jest)
+- OWASP Top 10 security standards & input sanitization
 
 </details>
 
 <details>
-<summary><strong>🤖 AI & Automation</strong></summary>
+<summary><strong>🤖 AI-Powered Productivity & Automation</strong></summary>
 <br/>
 
-- AI-assisted development & productivity workflows
-- Developer tooling & workflow automation
-- Practical LLM integration into real products
+- AI-assisted agent workflows and developer productivity tooling
+- Integrating LLMs & AI APIs into mobile and backend platforms
+- Automated code generation, refactoring, and code review agents
 
 </details>
 
 ---
 
-## 🧭 Professional Journey
+## 🧭 Engineering Progression
 
 ```text
-        Flutter Development
-                │
-                ▼
-       Mobile Engineering
-                │
-                ▼
-      Software Architecture
-                │
-                ▼
-       Backend Engineering
-                │
-                ▼
-      Cloud & Data Systems
-                │
-                ▼
-       Testing & Quality
-                │
-                ▼
-        AI & Automation
+       Flutter & Dart Mobile
+                 │
+                 ▼
+      Full Mobile Engineering
+                 │
+                 ▼
+       Software Architecture
+                 │
+                 ▼
+   Backend & APIs (.NET / Node.js)
+                 │
+                 ▼
+   Databases (SQL Server / MongoDB)
+                 │
+                 ▼
+       Cloud, Docker & DevOps
+                 │
+                 ▼
+      Testing & Quality Systems
+                 │
+                 ▼
+       AI & Advanced Automation
 
-   Building → Learning → Improving → Building Better
+    Build → Measure → Learn → Engineer Better
 ```
 
 ---
 
 ## 🌱 What I’m Building Toward
 
-I want to become an engineer capable of looking beyond individual features and understanding the complete software system.
-
 ```text
-                    PRODUCT
-                       │
-          ┌────────────┼────────────┐
-          ▼            ▼            ▼
-        MOBILE       BACKEND       DATA
-          │            │            │
-          └────────────┼────────────┘
-                       ▼
-                  ARCHITECTURE
-                       │
-                       ▼
-                    SECURITY
-                       │
-                       ▼
-                    QUALITY
-                       │
-                       ▼
-                     SCALE
+                          PRODUCT
+                             │
+          ┌──────────────────┼──────────────────┐
+          ▼                  ▼                  ▼
+        MOBILE            BACKEND           DATABASE
+     (Flutter/Dart)   (.NET / Node.js)   (SQL / MongoDB)
+          │                  │                  │
+          └──────────────────┼──────────────────┘
+                             ▼
+                        ARCHITECTURE
+                       (Clean / DDD)
+                             │
+                             ▼
+                    SECURITY & INTEGRITY
+                       (Auth / RBAC)
+                             │
+                             ▼
+                    TESTING & QUALITY
+                      (CI/CD / QA)
+                             │
+                             ▼
+                  SCALE & CLOUD DEPLOYMENT
+                    (Docker / Firebase)
 ```
 
 <div align="center">
-  <em>The goal: Build software that creates real value and is engineered to last.</em>
+  <em>The goal: Engineer software systems that create real commercial value and stand the test of time.</em>
 </div>
 
 ---
 
-## 🔬 Software Development Workflow
+## 🔬 Software Development Lifecycle
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   01  Understand the Problem                         │
-│                         ↓                            │
-│   02  Understand the Business                        │
-│                         ↓                            │
-│   03  Model the Domain                                │
-│                         ↓                            │
-│   04  Design the Architecture                         │
-│                         ↓                            │
-│   05  Build the Solution                              │
-│                         ↓                            │
-│   06  Test Important Behaviors                       │
-│                         ↓                            │
-│   07  Release                                          │
-│                         ↓                            │
-│   08  Observe → Improve → Repeat                     │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   01  Understand the Business Problem & User Needs      │
+│                            ↓                            │
+│   02  Define Requirements & Specifications              │
+│                            ↓                            │
+│   03  Model the Domain & Design the Database Schemas    │
+│                            ↓                            │
+│   04  Architect Layers, Interfaces & Contracts          │
+│                            ↓                            │
+│   05  Build & Implement (Client + Backend APIs)         │
+│                            ↓                            │
+│   06  Test Business Logic, Edge Cases & UI Flows        │
+│                            ↓                            │
+│   07  Deploy & Release with CI/CD Automation            │
+│                            ↓                            │
+│   08  Monitor, Benchmark, Gather Feedback & Iterate    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 💭 What I Value
+## 💭 Core Engineering Values
 
-- **01** → **Understand before implementing:** Clarity saves more hours than fast typing.
-- **02** → **Prefer simple solutions:** Avoid unnecessary complexity.
-- **03** → **Architecture serves the product:** Never let tech choices dictate product value.
-- **04** → **Code quality matters:** Software lives far longer than its first release day.
-- **05** → **Security is foundational:** Security should never be an afterthought.
-- **06** → **Testing is engineering:** Quality assurance is part of building, not an optional extra.
-- **07** → **Real projects teach best:** Real-world implementations beat theory every time.
-- **08** → **Continuous growth:** Every difficult technical problem is an opportunity to level up.
+- **01** → **Understand before coding:** Spending 30 minutes clarifying requirements saves 3 days of refactoring.
+- **02** → **Simplicity is the ultimate sophistication:** Choose clear, readable code over overly clever tricks.
+- **03** → **Architecture serves the product:** Business needs dictate architectural choices, not hype.
+- **04** → **Code quality is non-negotiable:** Software lives far longer than its initial release sprint.
+- **05** → **Security by design:** Never treat authentication, authorization, or sanitization as an afterthought.
+- **06** → **Testing builds confidence:** Automated tests are safety nets that enable fearless innovation.
+- **07** → **Real projects beat tutorials:** Genuine production challenges teach what videos never can.
+- **08** → **Engineering is continuous learning:** Embrace every technical hurdle as an opportunity to level up.
 
 ---
 
@@ -375,49 +414,48 @@ I want to become an engineer capable of looking beyond individual features and u
 
 | Category | Focus |
 | :--- | :--- |
-| 📱 **Mobile Applications** | Production-ready Flutter & Dart apps |
-| 🏗️ **Architecture** | Clean Architecture experiments & design patterns |
-| 🔥 **Firebase & Cloud** | Cloud-backed apps, security rules & data models |
-| ⚙️ **Backend Systems** | APIs, services & server-side development |
-| 🧪 **Testing & QA** | Quality, reliability & automated test suites |
-| 🧩 **Tools & Utilities** | Developer utilities & workflow experiments |
-| 📚 **Learning & Labs** | Deep-dive technical exploration |
-| 🚀 **Products** | Real-world digital products & solutions |
+| 📱 **Mobile Applications** | Production-ready Flutter apps with Clean Architecture & BLoC |
+| ⚙️ **Backend & APIs** | ASP.NET Core (C#) & Node.js / TypeScript RESTful web services |
+| 🗄️ **Database & Data Modeling** | SQL Server (T-SQL), PostgreSQL, MongoDB & Firestore schemas |
+| 🏗️ **Architecture & Patterns** | Clean Architecture, DDD, CQRS, and Design Pattern implementations |
+| 🔥 **Firebase & Serverless** | Cloud Functions, Firestore rules, Authentication & Analytics |
+| 🐳 **Docker & DevOps** | Containerized services, Docker Compose & CI/CD workflow scripts |
+| 🧪 **Testing & QA** | Unit, Widget, and API integration test suites |
+| 🧩 **Developer Tools & AI** | Productive scripts, utilities, and AI workflow experiments |
+| 🚀 **Commercial Products** | Full-stack production platforms and SaaS products |
 
 </div>
 
 ---
 
-## ✨ A Little More About How I Work
+## ✨ How I Work
 
 <details>
-<summary><strong>🔎 My Development Principles</strong></summary>
+<summary><strong>🔎 Key Development Principles</strong></summary>
 <br/>
 
-- Understand the existing system before changing it.
-- Solve the root problem instead of hiding the symptom.
-- Keep responsibilities clear and separated.
-- Prefer maintainable code over clever code.
-- Make important behavior testable.
-- Think about security early.
-- Document important architectural decisions.
-- Build with the next developer in mind.
-- Keep learning through real-world implementation.
+- **Read before writing:** Understand the existing architecture before modifying anything.
+- **Fix the root cause:** Eliminate bugs at the foundational level rather than hiding symptoms.
+- **Strict separation of concerns:** Keep domain business logic 100% decoupled from UI and framework APIs.
+- **Empathetic engineering:** Write code so cleanly that the next developer understands it effortlessly.
+- **Fail fast & handle gracefully:** Catch errors early and present friendly states to the user.
+- **Document the "Why":** Code explains the *how*, documentation explains the *why*.
+- **Continuous feedback loop:** Benchmark, test on real devices, and iterate rapidly.
 
 </details>
 
 ---
 
-## 🚀 My Goal
+## 🚀 My Vision
 
 <div align="center">
 
-### **Build software that matters.**
+### **Build software that creates lasting impact.**
 
-*Solve real problems.*  
-*Design thoughtful systems.*  
-*Write maintainable code.*  
-*Keep learning. Keep building.*
+*Solve meaningful problems.*  
+*Design resilient architectures.*  
+*Write maintainable, robust code.*  
+*Keep learning. Keep engineering.*
 
 </div>
 
@@ -427,9 +465,9 @@ I want to become an engineer capable of looking beyond individual features and u
 
 <div align="center">
 
-I’m always open to connecting with people interested in:
+I’m always open to discussing new opportunities, high-impact projects, and engineering ideas:
 
-**Software Engineering · Flutter · Mobile Development · Backend · Architecture · Firebase · Digital Products · AI & Automation**
+**Flutter & Mobile · ASP.NET Core & C# · Node.js & TypeScript · SQL Server & MongoDB · Cloud & Docker · AI Tooling**
 
 <br/>
 
