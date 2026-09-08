@@ -121,9 +121,11 @@ I believe great engineering turns complex business requirements into software th
 <br/><br/>
 
 ### 🧰 Tools, DevOps & Platforms
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,androidstudio,vscode,apple,figma" height="52" alt="Tools & Platforms" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,androidstudio,vscode" height="50" alt="Tools" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" width="48" alt="Xcode" />
+<img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
 <br/>
-`Docker` · `Git` · `GitHub` · `Postman` · `Android Studio` · `VS Code` · `Xcode / iOS` · `Figma`
+`Docker` · `Git` · `GitHub` · `Postman` · `Android Studio` · `VS Code` · `Xcode` · `Figma`
 
 <br/><br/>
 
